@@ -56,8 +56,8 @@ pip install pandas polars
 
 Run each script separately:
 
-python pure_python_stats.py
-python pandas_stats.py
+python pure_python_stats.py<br/>
+python pandas_stats.py<br/>
 python polars_stats.py
 
 
