@@ -19,7 +19,7 @@ This allows comparison of implementation complexity, performance, and usability 
 The dataset is not included in this repository due to size and usage restrictions.
 
 You can download it from:
-[INSERT DATASET LINK HERE]
+[Google Drive: 2024 Election Social Media Data](https://drive.google.com/file/d/1UPo11lH2Mlk2cnLtjv8P9XqlKitms-gp/view)
 
 ### Instructions:
 1. Download the dataset
@@ -30,6 +30,7 @@ You can download it from:
 ---
 
 ## Project Structure
+```bash
 task_02/
 ├── pure_python_stats.py # Manual implementation using standard library
 ├── pandas_stats.py # Analysis using Pandas
@@ -40,7 +41,7 @@ task_02/
 ├── requirements.txt # Dependencies
 ├── visualizations.py
 └── .gitignore
-
+```
 
 ---
 
