@@ -1,6 +1,6 @@
-# 📊 Descriptive Analysis of Facebook Political Ads (Milestone A)
+# Descriptive Analysis of Facebook Political Ads (Milestone A)
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs descriptive statistical analysis on a dataset of Facebook political advertisements related to the 2024 U.S. presidential election.
 
@@ -14,7 +14,7 @@ This allows comparison of implementation complexity, performance, and usability 
 
 ---
 
-## 📥 Dataset Access
+## Dataset Access
 
 The dataset is not included in this repository due to size and usage restrictions.
 
@@ -29,7 +29,7 @@ You can download it from:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 task_02/
 ├── pure_python_stats.py # Manual implementation using standard library
 ├── pandas_stats.py # Analysis using Pandas
@@ -44,14 +44,14 @@ task_02/
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Install dependencies:
 pip install pandas polars
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 Run each script separately:
 
@@ -62,7 +62,7 @@ python polars_stats.py
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 For each script, the following analysis is performed:
 
@@ -85,7 +85,7 @@ For each script, the following analysis is performed:
 
 ---
 
-## 🧠 Key Observations
+## Key Observations
 
 - The dataset contains a mix of numeric, categorical, and complex nested fields
 - Binary indicator columns (0/1) are widely used for topics and message types
@@ -94,7 +94,7 @@ For each script, the following analysis is performed:
 
 ---
 
-## 🔍 Approach Comparison
+## Approach Comparison
 
 | Aspect | Pure Python | Pandas | Polars |
 |------|------------|--------|--------|
@@ -105,13 +105,13 @@ For each script, the following analysis is performed:
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates how the same analytical tasks can be implemented using different tools, highlighting trade-offs between control, performance, and developer productivity.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Arsh Chandrakar  
 M.S. Information Systems
